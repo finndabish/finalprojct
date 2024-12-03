@@ -120,5 +120,3 @@ print(make_table('lizard'))
 print(separate_phrase('house'))
 print(encrypt('house', 'lizard'))
 
-
-
